@@ -25,6 +25,8 @@ Using HTML and CSS create a webpage using the following wireframe:
 
 ![wireframe](https://cloud.githubusercontent.com/assets/10408784/14149781/ce8a81d8-f673-11e5-9581-2ce80b305c7d.png)
 
+Remember to run `grunt serve` to spin up your local server to work in.
+
 ## Bonus
 
 This should be worked on **only after** passing requirements.
