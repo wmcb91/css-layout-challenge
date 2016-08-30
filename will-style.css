@@ -1,0 +1,83 @@
+body{
+  border: 2px black solid;
+  height: 570px;
+  width: 530px;
+}
+
+p{
+  text-align: center;
+  height: 12px;
+}
+
+div{
+  border:2px blue solid;
+  position: relative;
+  clear: both;
+  display: inline-block;
+}
+
+.main{
+  border:2px red solid;
+}
+
+.header div{
+  margin-top: 0;
+  height: 30px;
+}
+
+.one{
+  width: 60px;
+  margin-left: 30px;
+  padding: 0;
+}
+
+.two{
+  width: 270px;
+  margin-left: -5px;
+}
+
+.three{
+  width: 60px;
+  margin-left: -5px;
+}
+
+.four{
+  width: 60px;
+  margin-left: -5px;
+}
+
+.four{
+  width: 60px;
+  margin-left: -5px;
+}
+
+.four{
+  width: 60px;
+  margin-left: -5px;
+}
+
+.four{
+  width: 60px;
+  margin-left: -5px;
+}
+
+.four{
+  width: 60px;
+  margin-left: -5px;
+}
+
+.four{
+  width: 60px;
+  margin-left: -5px;
+}
+
+
+
+
+.footer{
+  margin-bottom: 0;
+}
+.eleven{
+  margin-bottom: 0;
+  position: absolute;
+}
